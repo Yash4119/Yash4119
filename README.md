@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Jayram Ambekar</h1>
 <h3 align="center">A passionate Problem Solver, Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash4119&label=Profile%20views&color=0e75b6&style=flat" alt="yash4119" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Problem+Solver;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 - 🔭 I’m currently working on **MERN**
 
