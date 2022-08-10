@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **Data Structures and Algorithms, JAVA, C++, JAVASCRIPT**
 
