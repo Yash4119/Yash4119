@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Problem+Solver;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisna2512&label=Profile%20views&color=0e75b6&style=flat" alt="kisna2512" /> </p>
 
 - 🔭 I’m currently working on **MERN**
 
